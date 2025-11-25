@@ -73,15 +73,7 @@
             align-items: center;
             justify-content: center;
             gap: 15px;
-        }
-        
-        .description {
-            color: #666;
-            margin-bottom: 20px;
-            font-size: 1.1rem;
-            max-width: 800px;
-            margin-left: auto;
-            margin-right: auto;
+
         }
         
         .filters {
